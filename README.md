@@ -11,6 +11,11 @@ Run Node Command Line Utility
 
 ./app.js Rory
 
+Run Node Application with express
+---------------------------------
+
+npm install express
+node hello-express.js
 
 Links
 -----
