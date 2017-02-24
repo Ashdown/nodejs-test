@@ -1,7 +1,16 @@
 Node Js Test Code
 =================
 
+Run Node Js Application
+-----------------------
+
 node hello.js
+
+Run Node Command Line Utility
+-----------------------------
+
+./app.js Rory
+
 
 Links
 -----
